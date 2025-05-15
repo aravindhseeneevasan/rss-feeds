@@ -11,7 +11,7 @@
       <link>https://example.com/test-zero-day-2</link>
       <guid isPermaLink="false">test-alert-5678</guid>
       <description>This is a test post to simulate a zero-day alert.</description>
-      <pubDate>Thu, 15 May 2025 14:45:00 +0000</pubDate>
+      <pubDate>Thu, 15 May 2025 13:40:00 +0530</pubDate>
     </item>
   </channel>
 </rss>
