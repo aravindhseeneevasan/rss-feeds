@@ -3,7 +3,7 @@
   <channel>
     <title>Test Zero-Day Feed</title>
     <link>https://example.com</link>
-    <description>Simulated feed for testing Teams integration</description>
+    <description>Simulated feed for testing the Teams integration</description>
     <item>
       <title>🚨 Test Alert: Zero-Day CVE-2025-1234</title>
       <link>https://example.com/test-zero-day</link>
