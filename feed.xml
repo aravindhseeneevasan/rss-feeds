@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Zero-Day Feed</title>
     <link>https://example.com</link>
-    <description>Simulated feed for testing about the Teams integration</description>
+    <description>Simulated feed for testing Teams integration</description>
+    <atom:link href="https://yourusername.github.io/repo-name/feed.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>🚨 Test Alert: Zero-Day CVE-2025-1234</title>
-      <link>https://example.com/test-zero-day</link>
+      <title>🚨 Test Alert: Zero-Day CVE-2025-5678</title>
+      <link>https://example.com/test-zero-day-2</link>
+      <guid isPermaLink="false">test-alert-5678</guid>
       <description>This is a test post to simulate a zero-day alert.</description>
-      <pubDate>Thu, 15 May 2025 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 14:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
