@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Test Zero-Day Feed</title>
+    <link>https://example.com</link>
+    <description>Simulated feed for testing Teams integration</description>
+    <item>
+      <title>🚨 Test Alert: Zero-Day CVE-2025-1234</title>
+      <link>https://example.com/test-zero-day</link>
+      <description>This is a test post to simulate a zero-day alert.</description>
+      <pubDate>Thu, 15 May 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
