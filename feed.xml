@@ -17,7 +17,7 @@
     <item>
       <title>🚨 New Test Alert: Zero-Day CVE-2025-5679</title>
       <link>https://example.com/test-zero-day-3</link>
-     test-alert-5679</guid>
+      <guid isPermaLink="false">test-alert-5679</guid>
       <description>This is another test post to simulate a zero-day alert.</description>
       <pubDate>Thu, 15 May 2025 08:09:00 +0000</pubDate>
     </item>
