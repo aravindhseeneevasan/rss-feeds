@@ -4,7 +4,7 @@
     <title>Test Zero-Day Feed</title>
     <link>https://example.com</link>
     <description>Simulated feed for testing Teams integration</description>
-    <atom:link href="https://aravindhseeneevasan.github.io/repo-name/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aravindhseeneevasan.github.io/rss-feeds/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🚨 Test Alert: Zero-Day CVE-2025-5678</title>
